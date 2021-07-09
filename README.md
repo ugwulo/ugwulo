@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ugwulo&label=Profile%20views&color=0e75b6&style=flat" alt="ugwulo" /> </p>
 
-- 🔭 I’m currently working on [GitRank](https://github.com/ugwulo/GitRank)
-
 - 📝 Check out interesting articles on my [blog](https://ndubuisi.hashnode.dev)
 
 - 📄 Know about my experiences [Resume/CV](https://docs.google.com/document/d/1CBUBxXcKUw45i_CoLgAeoiVYGVpPZu50ye77EVAl79s/edit?usp=drivesdk)
